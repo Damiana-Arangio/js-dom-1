@@ -1,0 +1,20 @@
+/**********************
+    REGOLE GENERALI
+***********************/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/** Lampadina */
+#img-lampadina {
+    padding-left: 20px;
+}
+
+/** Bottone */
+#btn {
+    padding: 4px;
+}
+

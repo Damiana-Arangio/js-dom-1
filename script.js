@@ -12,5 +12,5 @@ const img = document.getElementById("img-lampadina");
 // Accendi lampadina al click del bottone
 bottone.addEventListener("click", function() {
         img.src = "img/yellow_lamp.png";    // Cambia immagine -> lampadina accesa
-        img.alt = "lampadina spenta";       // Aggiorna testo alternativo
+        img.alt = "lampadina accesa";       // Aggiorna testo alternativo
 });
